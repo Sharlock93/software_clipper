@@ -1,0 +1,22 @@
+{
+    "build_systems": [], 
+    "folders": [
+        {
+            "path": "S:\\Test\\Clipper"
+        }
+    ], 
+    "settings": {
+        "additional_flags": [
+            "Wall", 
+            "std=gnu++11", 
+            "D__USE_MINGW_ANSI_STDIO=1"
+        ], 
+        "cc": "g++", 
+        "include_dir": [
+            "header"
+        ], 
+        "lib_dir": [], 
+        "lib_names": [], 
+        "main_file": "Clipper"
+    }
+}
